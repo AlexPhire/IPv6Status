@@ -73,7 +73,7 @@ class Helper
     }
 
     /**
-     * 获取客户端真实 IP（已优化 EdgeOne 映射问题）
+     * 获取客户端真实 IP
      */
     public static function getClientIP()
     {
