@@ -16,6 +16,17 @@ Typecho IPv6状态标识插件
 - ** V1.0.1,修改为单文件版本，更轻便。
 - ** V1.0.0,初始版本
 
+##  截图
+
+<img width="240" height="41" alt="image" src="https://github.com/user-attachments/assets/01e87848-7314-443b-aae4-4216911c7e6d" />
+<img width="221" height="39" alt="image" src="https://github.com/user-attachments/assets/90579c7c-77fd-49cd-aa6c-562e2c5f0ce5" />
+<img width="281" height="49" alt="image" src="https://github.com/user-attachments/assets/ad7dc6c1-bf6c-40fd-845f-7504bfa3809b" />
+<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/9f0e16bc-89fb-455c-8c56-56d2d4064e1a" />
+<img width="70" height="22" alt="image" src="https://github.com/user-attachments/assets/5f50be62-5275-4b95-8207-dd286b6a809b" />
+<img width="63" height="23" alt="image" src="https://github.com/user-attachments/assets/370719d9-7c3f-45da-960e-7fd9f4ef9286" />
+
+
+
 
 ## ✨ 功能特性
 
